@@ -20,10 +20,9 @@ if(cor==1){
     fundo = "red";
 }
 else if(cor ==2){
-    fundo = blue;
-}[
+    fundo = "blue";
+}
 
-]
 else if (cor == 3){
     fundo = "black";
 }
